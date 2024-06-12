@@ -1,8 +1,7 @@
-# React + Vite
+# Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a project for a simple web calculator, with more functions to be implemented.
 
-Currently, two official plugins are available:
+Turn into PWA (Progressive Web App): web application developed using specific technologies to take advantage of native and web app features.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Tela da Calculadora](https://github.com/ThamiStoppelli/Calculator/assets/88932908/10aabf74-e1e5-4a4f-a314-40a77b91c5dd)
